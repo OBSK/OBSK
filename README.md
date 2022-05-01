@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorge Arturo</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
-- 💬 Ask me about **vue, angular, react, spring boot**
+- 💬 Ask me about **Vue, Angular, React, Spring boot, Sails.js, Nuxt, among others :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
