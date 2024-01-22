@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Arturo</h1>
-<h3 align="center">A passionate frontend developer from Perú</h3>
+<h3 align="center">A passionate Full Stack Developer from Perú</h3>
 
 - 💬 Ask me about **Vue, Angular, React, Spring boot, Sails.js, Nuxt, Node.js among others :D**
 
